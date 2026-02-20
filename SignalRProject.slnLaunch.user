@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "SignalRApi\\SignalRApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
