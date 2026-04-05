@@ -1,6 +1,6 @@
 # 🍽️ QR Kodlu Sipariş Yönetim Sistemi
 
-**ASP.NET Core 6.0** ve **SignalR** kullanılarak geliştirilmiş, gerçek zamanlı restoran sipariş yönetim sistemidir. Murat Yücedağ'ın *"Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi"* Udemy eğitimi kapsamında geliştirilmiştir.
+**ASP.NET Core 6.0** ve **SignalR** kullanılarak geliştirilmiş, gerçek zamanlı restoran sipariş yönetim sistemidir.
 
 ---
 
@@ -44,7 +44,7 @@ SignalRProject/
 ├── SignalRProject.BusinessLayer/
 ├── SignalRProject.EntityLayer/
 ├── SignalRProject.DtoLayer/
-├── SignalRProject.ApiLayer/       # Web API
+├── SignalRProject.Api/            # Web API
 └── SignalRProject.WebUI/          # MVC + SignalR Hub
 ```
 
@@ -81,4 +81,4 @@ dotnet run
 
 **Enes Özdemir**  
 📧 ozdemir.enes2323@gmail.com  
-🔗 [github.com/enes-ozdemir23](https://github.com/enes-ozdemir23)
+🔗 (https://github.com/enes-ozdemir23)
