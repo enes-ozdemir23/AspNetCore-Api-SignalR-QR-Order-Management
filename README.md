@@ -70,13 +70,6 @@ dotnet run
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-> _(Eklenecek)_
-
----
-
-
 ## 👤 Geliştirici
 
 **Enes Özdemir**  
