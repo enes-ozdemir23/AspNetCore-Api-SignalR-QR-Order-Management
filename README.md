@@ -54,7 +54,7 @@ SignalRProject/
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/enesozdemir23/SignalRProject.git
+git clone https://github.com/enes-ozdemir23/SignalRProject.git
 
 # 2. appsettings.json bağlantı dizesini düzenle
 "ConnectionStrings": {
